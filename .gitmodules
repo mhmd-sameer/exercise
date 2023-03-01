@@ -1,0 +1,6 @@
+[submodule "oswdexp"]
+	path = oswdexp
+	url = https://github.com/mhmd-sameer/oswdexp.git
+[submodule "pro/oswdexp"]
+	path = pro/oswdexp
+	url = https://github.com/mhmd-sameer/oswdexp.git
